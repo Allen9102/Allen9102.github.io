@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Risk Management and Insurance, National Chengchi University (NCCU), 2021 - 2026
-
+* B.S. in Accounting, National Chengchi University (NCCU), 2021 - 2026
 
 Honors
 ======
@@ -26,14 +26,30 @@ Honors
 
 Work experience
 ======
-**A**
+**Fubon Life Insurance Co., Ltd** <span style="float: right;"> Taipei, Taiwan </span>
 
+***Actuarial Product Pricing Intern*** <span style="float: right;"> Feb. 2026 – June 2026 </span>
+- Conducted independent literature and industry research on insurance topics, such as reinsurance and financial inclusion initiatives, synthesizing findings from 20+ academic papers, industry reports, and news articles into structured research summaries for internal discussions.
+- Performed exploratory and descriptive analyses of insurance product data, comparing summary statistics such as means and standard deviations and using data visualizations to identify trends and patterns.
 
-**B**
+**Deloitte & Touche** <span style="float: right;"> Taipei, Taiwan </span>
 
+***Actuarial Consultant Intern*** <span style="float: right;"> Feb. 2025 – Aug. 2025 </span>
+- Conducted a risk management research project from a financial holding company perspective, examining approaches to risk aggregation and diversification across multiple risk types, including the application of copula methods and Monte Carlo simulation.
+- Reviewed and reconciled projected cash flows for 10+ insurance products against actuarial assumptions, identifying discrepancies between model outputs and expected cash flow patterns. 
+- Executed scenario-based quantitative analysis of the impact of ICS spread adjustments on insurers’ capital positions, translating model outputs into materials for board-level strategic discussions.
+- Built Excel-based analytical tools to organize, compare, and visualize quantitative indicators across insurance products, financial results, and risk measures.
 
-**C**
+**Ernst & Young** <span style="float: right;"> Taipei, Taiwan </span>
 
+***Audit Intern*** <span style="float: right;"> Jan. 2025 – Feb. 2025 </span>
+- Used VBA to streamline journal-entry document organization and automate account confirmation workflow, reducing processing and turnaround time by 70%~80%.
+
+***Financial Accounting Advisory Services Intern*** <span style="float: right;"> Sep. 2024 – Jan. 2025 </span>
+- Developed an RPA system using Excel VBA and Blue Prism to automate client annual report preparation and standardize data collection across 100+ documents, reducing turnaround time from 2 months to 3 weeks.
+- Performed time-series trend analysis on multi-period financial ratios for 70+ entities to provide investment advice.
+
+***Audit Intern*** <span style="float: right;"> Feb. 2025 – Aug. 2025 </span>
 
 
 Projects
