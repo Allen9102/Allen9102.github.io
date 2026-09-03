@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Risk Management and Insurance, National Chengchi University (NCCU), 2021~2026
+* B.S. in Risk Management and Insurance, National Chengchi University (NCCU), 2021 - 2026
 
 
 Honors
@@ -49,8 +49,8 @@ Actuarial Certificate
 - [CB2](https://reurl.cc/6XKXzb) (Business Economics): Microeconomics, Macroeconomics
 
 **Society of Actuaries (SOA)**
-- [P](https://reurl.cc/RRYR3x)(Probability)
-- [FM](https://reurl.cc/nxmxg6)(Financial Mathematics)
+- [P](https://reurl.cc/RRYR3x) (Probability)
+- [FM](https://reurl.cc/nxmxg6) (Financial Mathematics)
 
 
 Extracurricular Activities
