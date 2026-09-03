@@ -52,9 +52,6 @@ Work experience
 ***Audit Intern*** <span style="float: right;"> Feb. 2025 – Aug. 2025 </span>
 
 
-Projects
-======
-
 
 
 Actuarial Certificate
