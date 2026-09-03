@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Risk Management and Insurance, National Chengchi University, 2021~2026
 
 Work experience
 ======
@@ -41,24 +39,26 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Volunteering
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Projects
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Extracurricular Activities
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Treasurer, Securities Research Society, NCCU Feb. ~ Jul. 2024
+* Guitar club, NCCU
+* Blockchain club, NCCU
   
-Service and leadership
+Language
 ======
-* Currently signed in to 43 different slack teams
+* Mandarin (Native)
+* English (Full professional proficiency)
+* Korean (Professional working proficiency)
