@@ -13,37 +13,35 @@ Education
 ======
 * B.S. in Risk Management and Insurance, National Chengchi University, 2021~2026
 
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**A**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**B**
+
+
+**C**
+
+
 
 Selected Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
+
+Actuarial Certificate
+======
+**Institute and Faculty of Actuaries (IFoA)**
+- CS1A (Actuarial Statistics): Data analysis, random variables and distributions, statistical inference, regression theory and applications, Bayesian statistics.
+- CS1B (Actuarial Statistics with R): Statistical inference, regression models, sampling techniques, EDA, PCA analysis.
+- CB2 (Business Economics): Microeconomics, Macroeconomics
+
+**Society of Actuaries (SOA)**
+- P
+- FM
+
 
 Extracurricular Activities
 ======
@@ -62,14 +60,15 @@ Extracurricular Activities
 
 **Guitar Club, NCCU** <span style="float: right;">2024</span>
 
+
 Volunteering
 ======
 **Bilingual Digital Tutor** <span style="float: right;"> Aug. – Dec. 2023</span>
-- Provided children without adequate educational resources with companionship and educational instruction, particularly in English.
 
 **Digital Tutor** <span style="float: right;"> Oct. 2021 – Jan. 2022</span>
 
 This "Digital Tutor Program," hosted by the Ministry of Education, aimed to provide young learners who lacked educational resources with mental companionship and academic support.
+
 
 Language
 ======
