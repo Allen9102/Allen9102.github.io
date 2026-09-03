@@ -47,26 +47,29 @@ Selected Projects
 
 Extracurricular Activities
 ======
-- **Securities Research Society** <span style="float: right;">NCCU</span>
+**Securities Research Society, NCCU**
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Treasurer** <span style="float: right;">Feb. – Jul. 2024</span>
+- **Treasurer** <span style="float: right;">Feb. – Jul. 2024</span>
 
 1. Budgeted allocations for the operations of club activities.
 2. Managed club property.
 3. Traced cash flows to avoid misconduct.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Project Member** <span style="float: right;">Feb. – Jul. 2024</span>
+- **Project Member** <span style="float: right;">Feb. – Jul. 2024</span>
 
 1. Initiated research on certain stocks that benefit from the rise in real estate in the USA.
 2. Gained insights into the US macroeconomy.
 
-- **Guitar Club, NCCU** <span style="float: right;">2024</span>
+**Guitar Club, NCCU** <span style="float: right;">2024</span>
 
 Volunteering
 ======
 **Bilingual Digital Tutor** <span style="float: right;"> Aug. – Dec. 2023</span>
+- Provided children without adequate educational resources with companionship and educational instruction, particularly in English.
 
 **Digital Tutor** <span style="float: right;"> Oct. 2021 – Jan. 2022</span>
+
+This "Digital Tutor Program," hosted by the Ministry of Education, aimed to provide young learners who lacked educational resources with mental companionship and academic support.
 
 Language
 ======
