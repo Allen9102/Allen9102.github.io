@@ -47,22 +47,25 @@ Selected Projects
 
 Extracurricular Activities
 ======
-- **Securities Research Society** <span style="float: right;"> NCCU</span>
+- **Securities Research Society** <span style="float: right;">NCCU</span>
 
-**Treasurer** <span style="float: right;"> Feb. – Jul. 2024</span>
+&nbsp;&nbsp;&nbsp;&nbsp;**Treasurer** <span style="float: right;">Feb. – Jul. 2024</span>
+
 1. Budgeted allocations for the operations of club activities.
 2. Managed club property.
 3. Traced cash flows to avoid misconduct.
 
-**Project member** <span style="float: right;"> Feb. – Jul. 2024</span>
+&nbsp;&nbsp;&nbsp;&nbsp;**Project Member** <span style="float: right;">Feb. – Jul. 2024</span>
+
 1. Initiated research on certain stocks that benefit from the rise in real estate in the USA.
 2. Gained insights into the US macroeconomy.
 
-- **Guitar Club, NCCU** <span style="float: right;"> 2024</span>
+- **Guitar Club, NCCU** <span style="float: right;">2024</span>
 
 Volunteering
 ======
 **Bilingual Digital Tutor** <span style="float: right;"> Aug. – Dec. 2023</span>
+
 **Digital Tutor** <span style="float: right;"> Oct. 2021 – Jan. 2022</span>
 
 Language
