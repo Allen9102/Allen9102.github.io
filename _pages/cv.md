@@ -39,33 +39,32 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Volunteering
+Selected Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Selected Projects
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Extracurricular Activities
 ======
 - **Securities Research Society** <span style="float: right;"> NCCU</span>
 
-\ **Treasurer** <span style="float: right;"> Feb. – Jul. 2024</span>
+**Treasurer** <span style="float: right;"> Feb. – Jul. 2024</span>
 1. Budgeted allocations for the operations of club activities.
 2. Managed club property.
 3. Traced cash flows to avoid misconduct.
 
-\ **Project member** <span style="float: right;"> Feb. – Jul. 2024</span>
+**Project member** <span style="float: right;"> Feb. – Jul. 2024</span>
 1. Initiated research on certain stocks that benefit from the rise in real estate in the USA.
 2. Gained insights into the US macroeconomy.
 
 - **Guitar Club, NCCU** <span style="float: right;"> 2024</span>
-  
+
+Volunteering
+======
+**Bilingual Digital Tutor** <span style="float: right;"> Aug. – Dec. 2023</span>
+**Digital Tutor** <span style="float: right;"> Oct. 2021 – Jan. 2022</span>
+
 Language
 ======
 * Mandarin (Native)
