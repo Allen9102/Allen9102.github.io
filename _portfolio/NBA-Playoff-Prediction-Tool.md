@@ -8,7 +8,7 @@ collection: portfolio
 
 This team project explores how player-interaction data can be used to predict NBA playoff performance.
 
-We transformed player cooperation data into heatmap representations and developed a dual-branch convolutional neural network (CNN) to predict the number of playoff wins for each team.
+We transformed player cooperation data into heatmaps and developed a dual-branch convolutional neural network (CNN) to predict each team's number of playoff wins.
 
 ## Methodology
 
@@ -26,9 +26,11 @@ The model was implemented in Python using PyTorch.
 The dual-branch architecture allows the model to capture two complementary aspects of player cooperation: the frequency with which players appear together and the effectiveness of their combination on the court.
 
 
-This picture illustrates how much time each player combination plays together.
+This picture illustrates how much time each player combination plays together:
 
 <img width="1200" height="1000" alt="Atlanta_Hawks_201617_shared_minutes" src="https://github.com/user-attachments/assets/321e3404-aeb0-4f24-8953-d73a37be5f6b" />
+
+
 
 
 The following pictures illustrate the effectiveness of players' combinations on the court. Red color means their combination yields negative points, and vice versa.
@@ -44,6 +46,8 @@ The following pictures illustrate the effectiveness of players' combinations on 
 </div>
 
 </div>
+
+
 
 
 The model was trained using MSE loss and the AdamW optimizer, with early stopping based on validation performance.
@@ -64,10 +68,6 @@ We also have an interactive visualization that allows users to compare the estim
 <img width="464" height="93" alt="截圖 2026-09-04 17 47 40" src="https://github.com/user-attachments/assets/4a801437-78a6-404c-92b4-f8977b2ca27e" />
 
 
-## Reflection
-
-This project strengthened my interest in machine learning and, more importantly, raised questions about how predictive models should be evaluated when the goal is to generalize to future observations.
-
-It also motivated me to explore the statistical foundations behind model evaluation, generalization, and probability estimation.
+## For more
 
 [View the project on GitHub](https://github.com/Allen9102/NBA-Playoff-Prediction-Tool)
