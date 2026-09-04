@@ -1,5 +1,5 @@
 ---
-title: "Insurance Claim Probability Prediction"
+title: "Claim Frequency Predictor"
 excerpt: "Predicting insurance claim probabilities using statistical and machine learning methods."
 collection: portfolio
 ---
