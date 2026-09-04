@@ -9,9 +9,9 @@ redirect_from:
 
 ## About Me
 
-My academic journey began with an interest in accounting, but I gradually developed a deeper interest in the quantitative foundations underlying financial and insurance decisions. 
+My academic journey began with an interest in accounting, but my career path changed after my audit internship at EY during summer vacation. I realized the role did not align with my interests due to its repetitive nature, prompting me to reconsider my career goals. After an internship in financial accounting advisory services, where I participated in an RPA project, I saw firsthand how programming could address practical problems, prompting me to reassess my prior learning experiences.
 
-Through coursework, internships, and projects, I have become particularly interested in how statistical and machine learning methods can be applied to insurance problems. These experiences have also motivated me to strengthen my statistical foundation and better understand the reliability, interpretability, and generalization of predictive models.
+After continuously exploring my interest through coursework, internships, and projects, I gradually developed a new ambition. I became particularly interested in how statistical and machine-learning methods can be applied to insurance problems. These experiences have also motivated me to strengthen my statistical foundation and better understand the reliability, interpretability, and generalization of predictive models.
 
 ## Academic Interests
 
