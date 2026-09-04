@@ -25,7 +25,19 @@ The model was implemented in Python using PyTorch.
 
 The dual-branch architecture allows the model to capture two complementary aspects of player cooperation: the frequency with which players appear together and the effectiveness of their combination on the court.
 
+<img width="1200" height="1000" alt="Atlanta_Hawks_201617_shared_minutes" src="https://github.com/user-attachments/assets/321e3404-aeb0-4f24-8953-d73a37be5f6b" />
+
+
+<img width="1200" height="1000" alt="Atlanta_Hawks_201718_shared_pm_per_min" src="https://github.com/user-attachments/assets/cdd7b931-ffeb-4530-8238-50cfe4eabc67" />
+
+
+<img width="1200" height="1000" alt="Boston_Celtics_202324_shared_pm_per_min" src="https://github.com/user-attachments/assets/53a644c3-7953-4e3e-b32f-e4a05a14e3b4" />
+
+
 The model was trained using MSE loss and the AdamW optimizer, with early stopping based on validation performance.
+
+<img width="556" height="443" alt="Loss curve" src="https://github.com/user-attachments/assets/74e7272d-1b96-4ca7-be80-b7701bffab9c" />
+
 
 To evaluate the model on unseen seasons, the data were divided by season rather than randomly across team-season observations.
 
