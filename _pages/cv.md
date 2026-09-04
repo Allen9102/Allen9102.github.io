@@ -17,7 +17,7 @@ Education
 Honors
 ======
 * Ministry of Education accepts donations: E-Shui Lin and Yan Xia Memorial Scholarship (Recommended by university, 2025)
-* Lungshan Temple Scholarship Foundation (Recommended by university, 2025)
+* Lungshan Temple Scholarship Foundation (Recommended by university, 2024 & 2025)
 * Huang Ping-Hsin Insurance Scholarship Foundation (Recommended by department, 2025)
 * Jialu Wu Insurance Culture and Education Foundation (Recommended by department, 2023)
 * Dean's List (2022, 2023, 2025)
