@@ -27,12 +27,17 @@ The dual-branch architecture allows the model to capture two complementary aspec
 
 <img width="1200" height="1000" alt="Atlanta_Hawks_201617_shared_minutes" src="https://github.com/user-attachments/assets/321e3404-aeb0-4f24-8953-d73a37be5f6b" />
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
+<div style="flex: 1; min-width: 300px;">
 <img width="1200" height="1000" alt="Atlanta_Hawks_201718_shared_pm_per_min" src="https://github.com/user-attachments/assets/cdd7b931-ffeb-4530-8238-50cfe4eabc67" />
+</div>
 
-
+<div style="flex: 1; min-width: 300px;">
 <img width="1200" height="1000" alt="Boston_Celtics_202324_shared_pm_per_min" src="https://github.com/user-attachments/assets/53a644c3-7953-4e3e-b32f-e4a05a14e3b4" />
+</div>
 
+</div>
 
 The model was trained using MSE loss and the AdamW optimizer, with early stopping based on validation performance.
 
@@ -45,7 +50,7 @@ To evaluate the model on unseen seasons, the data were divided by season rather 
 
 The model produces predicted playoff-win values for each team and converts these predictions into relative championship probabilities.
 
-![NBA Prediction Results](/images/nba_prediction_chart.png)
+<img width="1007" height="580" alt="預測結果" src="https://github.com/user-attachments/assets/e16f775f-23c9-4a00-a6d1-2c9a0515091f" />
 
 An interactive visualization allows users to compare the estimated championship probabilities across teams and seasons.
 
