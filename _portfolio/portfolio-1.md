@@ -14,7 +14,7 @@ I developed and compared predictive models, including logistic regression and XG
 
 ## Model Evaluation
 
-The project also examined how model performance changed after adjusting the classification threshold and raised questions about model generalization and overfitting.
+The project examined how model performance changed after adjusting the classification threshold. This experience also raised questions about model generalization and overfitting, particularly how to determine whether a model's performance would remain reliable on unseen data.
 
 ## Results
 
