@@ -1,6 +1,6 @@
 ---
 title: "NBA Playoff Prediction Tool"
-excerpt: "Predicting NBA playoff performance using player-interaction data and deep learning."
+excerpt: "Predict NBA playoff performance by using player-interaction data and deep learning."
 collection: portfolio
 ---
 
