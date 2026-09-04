@@ -24,9 +24,12 @@ Honors
 * Academic Merit Scholarship (top 2 student, 2023 & 2024)
 
 
+Education
+======
+
 Work experience
 ======
-**Fubon Life Insurance Co., Ltd** <span style="float: right;"> Taipei, Taiwan </span>
+[**Fubon Life Insurance Co., Ltd**](https://www.fubon.com/life/English/) <span style="float: right;"> Taipei, Taiwan </span>
 
 ***Actuarial Product Pricing Intern*** <span style="float: right;"> Feb. 2026 – June 2026 </span>
 - Conducted independent literature and industry research on insurance topics, such as reinsurance and financial inclusion initiatives, synthesizing findings from 20+ academic papers, industry reports, and news articles into structured research summaries for internal discussions.
