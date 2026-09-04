@@ -25,6 +25,9 @@ The model was implemented in Python using PyTorch.
 
 The dual-branch architecture allows the model to capture two complementary aspects of player cooperation: the frequency with which players appear together and the effectiveness of their combination on the court.
 
+
+This picture illustrates how much time each player combination plays together.
+
 <img width="1200" height="1000" alt="Atlanta_Hawks_201617_shared_minutes" src="https://github.com/user-attachments/assets/321e3404-aeb0-4f24-8953-d73a37be5f6b" />
 
 
@@ -42,6 +45,7 @@ The following pictures illustrate the effectiveness of players' combinations on 
 
 </div>
 
+
 The model was trained using MSE loss and the AdamW optimizer, with early stopping based on validation performance.
 
 <img width="556" height="443" alt="Loss curve" src="https://github.com/user-attachments/assets/74e7272d-1b96-4ca7-be80-b7701bffab9c" />
@@ -55,7 +59,10 @@ The model produces predicted playoff-win values for each team and converts these
 
 <img width="1007" height="580" alt="預測結果" src="https://github.com/user-attachments/assets/e16f775f-23c9-4a00-a6d1-2c9a0515091f" />
 
-An interactive visualization allows users to compare the estimated championship probabilities across teams and seasons.
+We also have an interactive visualization that allows users to compare the estimated championship probabilities across teams and seasons.
+
+<img width="464" height="93" alt="截圖 2026-09-04 17 47 40" src="https://github.com/user-attachments/assets/4a801437-78a6-404c-92b4-f8977b2ca27e" />
+
 
 ## Reflection
 
