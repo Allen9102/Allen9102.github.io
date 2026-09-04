@@ -24,9 +24,6 @@ Honors
 * Academic Merit Scholarship (top 2 student, 2023 & 2024)
 
 
-Education
-======
-
 Work experience
 ======
 [**Fubon Life Insurance Co., Ltd**](https://www.fubon.com/life/English/) <span style="float: right;"> Taipei, Taiwan </span>
