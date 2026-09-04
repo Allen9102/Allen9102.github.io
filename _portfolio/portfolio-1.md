@@ -1,6 +1,6 @@
 ---
 title: "Claim Frequency Predictor"
-excerpt: "Predicting insurance claim probabilities using statistical and machine learning methods."
+excerpt: "Predict whether a car insurance claim will occur by using machine learning methods."
 collection: portfolio
 ---
 
