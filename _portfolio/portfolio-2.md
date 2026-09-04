@@ -28,6 +28,9 @@ The dual-branch architecture allows the model to capture two complementary aspec
 
 <img width="1200" height="1000" alt="Atlanta_Hawks_201617_shared_minutes" src="https://github.com/user-attachments/assets/321e3404-aeb0-4f24-8953-d73a37be5f6b" />
 
+
+The following pictures illustrate the effectiveness of players' combinations on the court. Red color means their combination yields negative points, and vice versa.
+
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 300px;">
