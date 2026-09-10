@@ -1,5 +1,5 @@
 ---
-title: "Claim Frequency Predictor"
+title: "Claim Occurrence Predictor"
 excerpt: "Predict whether a car insurance claim will occur by using machine learning methods."
 collection: portfolio
 ---
